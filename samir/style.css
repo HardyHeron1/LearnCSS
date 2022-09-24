@@ -35,6 +35,10 @@ body {
   text-transform: uppercase; 
 }
 
+#headd {
+  font-size: 20px;
+}
+
 @media (min-width:850px) {
   .header h1 {
     font-size: 120px;
