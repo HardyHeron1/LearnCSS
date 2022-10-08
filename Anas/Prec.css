@@ -1,0 +1,32 @@
+.header {
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    background-color: gray;
+}
+
+.navBar {
+    display: flex;
+    width: 100vw;
+    background-color: hsl(0, 0%, 90%);
+    padding: 0.2vw;
+}
+
+.section-1 {
+    display: flex;
+    font-weight: 600px;
+    font-size: 28px;
+    padding-left: 2vw;
+}
+
+.section-2 {
+    font-weight: 600px;
+    font-size: 18px;
+    display: flex;
+    gap: 1vw;
+    padding: 0.5vw
+}
+
+#currency {
+    text-align-last:center
+}
